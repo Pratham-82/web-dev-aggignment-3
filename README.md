@@ -6,6 +6,8 @@ A simple REST API to manage a store's products. You can add, view, update and de
 
 Built with Node.js, Express, MongoDB and Mongoose.
 
+Render Deployed Link: https://inventory-api-ajmy.onrender.com/
+
 ## How to run
 
 ```bash
